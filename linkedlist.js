@@ -10,6 +10,7 @@ class linkedList {
         this.head = null;
     }
 
+    //test conflict
     append(value) {
         const newNode = new Node(value);
 
