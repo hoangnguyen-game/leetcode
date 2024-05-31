@@ -19,15 +19,9 @@ class leetcode {
             this.digits[i] = 0;
         }
 
-        this.digits.unshift(1);https://github.com/KaiNguyen247/leetcode.git
+        this.digits.unshift(1);
+        //github.com/KaiNguyen247/leetcode.git
 
-        return this.digits;
+        https: return this.digits;
     }
 }
-
-// digits = [4, 3, 2, 9];
-digits = [9];
-
-lc = new leetcode(digits);
-
-console.log(lc.plusOne());
